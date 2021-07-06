@@ -234,7 +234,7 @@ ul{
 
 
 .navbar ul li{
-    display:block;
+    display:inline-block;
    
     
 
@@ -259,7 +259,7 @@ ul{
 
     
 main{
-    width:100%;
+    width:auto;
     height:600px;
     background:url(mainimage.jpg);
     background-repeat:no-repeat;
@@ -268,7 +268,7 @@ main{
 }
 
 .photo{
-    width:100%;
+    width:auto;
     height:600px;
     background:url(photo.jpg);
 }
