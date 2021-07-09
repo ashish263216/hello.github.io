@@ -14,7 +14,7 @@
 
 
 header{
-    width:100%;
+    width:1440px;
     height:80px;
     background:url(headerpic.jpg);
     background-repeat:no-repeat;
@@ -49,7 +49,7 @@ header{
 }
 
 .navbar{
-    width:100%;
+    width:1440px;
     height:50px;
     background-color:pink;
     position:sticky;
