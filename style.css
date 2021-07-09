@@ -5,7 +5,7 @@
 }
 
 .container{
-    width:1440px;
+    width:100%;
     height:3500px;
     
     
@@ -14,7 +14,7 @@
 
 
 header{
-    width:1440px;
+    width:100%;
     height:80px;
     background:url(headerpic.jpg);
     background-repeat:no-repeat;
@@ -49,7 +49,7 @@ header{
 }
 
 .navbar{
-    width:1440px;
+    width:100%;
     height:50px;
     background-color:pink;
     position:sticky;
@@ -93,7 +93,7 @@ header{
 
 
 main{
-    width:1440px;
+    width:100%;
     height:960px;
 
     
@@ -101,32 +101,32 @@ main{
 }
 
 .secondimage{
-    width:1440px;
+    width:100%;
     height:960px;
 }
 
 
 .thirdimage{
-    width:1440px;
+    width:100%;
     height:562px;
 }
 
 
 .photo{
-    width:1440px;
+    width:100%;
     height:960px;
 }
 
 
 .article{
-    width:1440px;
+    width:100%;
     height:400px;
     
 }
 
 
 footer{
-    width:1440px;
+    width:100%;
     height:350px;
     background-color:grey;
 }
@@ -221,8 +221,8 @@ ul{
 
 @media screen and (max-width:425px){
     .container{
-        max-width:100%;
-       max-height:3500px;
+        width:100%;
+       height:3500px;
         
         
     }
@@ -251,7 +251,7 @@ ul{
 
 
 .navbar ul li{
-    display:inline-block;
+    display:block;
    
     
 
@@ -412,7 +412,7 @@ ul{
     color:white;
     background-color:black;
     width:100%;
-    height:40px;
+    height:50px;
     padding-left:50px;
 }
 
