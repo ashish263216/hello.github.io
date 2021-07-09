@@ -5,7 +5,7 @@
 }
 
 .container{
-    max-width:100%;
+    width:1440px;
     height:3500px;
     
     
@@ -93,7 +93,7 @@ header{
 
 
 main{
-    width:100%;
+    width:1440px;
     height:960px;
 
     
@@ -101,32 +101,32 @@ main{
 }
 
 .secondimage{
-    width:100%;
+    width:1440px;
     height:960px;
 }
 
 
 .thirdimage{
-    width:100%;
+    width:1440px;
     height:562px;
 }
 
 
 .photo{
-    width:100%;
+    width:1440px;
     height:960px;
 }
 
 
 .article{
-    width:100%;
+    width:1440px;
     height:400px;
     
 }
 
 
 footer{
-    width:100%;
+    width:1440px;
     height:350px;
     background-color:grey;
 }
