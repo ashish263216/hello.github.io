@@ -14,7 +14,7 @@
 
 
 header{
-    width:100%;
+    max-width:100%;
     height:80px;
     background:url(headerpic.jpg);
     background-repeat:no-repeat;
@@ -49,7 +49,7 @@ header{
 }
 
 .navbar{
-    width:100%;
+    max-width:100%;
     height:50px;
     background-color:pink;
     position:sticky;
@@ -126,7 +126,7 @@ main{
 
 
 footer{
-    width:100%;
+    max-width:100%;
     height:350px;
     background-color:grey;
 }
@@ -251,7 +251,7 @@ ul{
 
 
 .navbar ul li{
-    display:block;
+    display:inline-block;
    
     
 
