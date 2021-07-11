@@ -240,7 +240,7 @@ ul{
   
 }
 
- ul{
+ .navbar ul{
     display:none; 
     width:100%;
     background-color:grey;
